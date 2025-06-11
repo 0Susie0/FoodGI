@@ -64,7 +64,7 @@ const AppNavigator = () => {
             name="Home" 
             component={HomeScreen} 
             options={{ 
-              title: 'FoodGI',
+              title: 'GI Tracker',
               headerTintColor: '#2E7D32',
               headerTitleStyle: { fontWeight: 'bold' },
             }}

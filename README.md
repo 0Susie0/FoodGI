@@ -1,4 +1,4 @@
-# FoodGI - Food Glycemic Index Tracker
+# GI Tracker - Food Glycemic Index Tracker
 
 A React Native mobile application designed to help diabetic patients track and recognize the glycemic index (GI) of foods to better manage their blood sugar levels.
 
@@ -13,7 +13,7 @@ A React Native mobile application designed to help diabetic patients track and r
 ## Project Structure
 
 ```
-FoodGI/
+GI Tracker/
 ├── src/
 │   ├── api/           # API integration
 │   ├── assets/        # Images, fonts, etc.

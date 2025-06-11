@@ -2,11 +2,11 @@ import { auth, firestore } from './firebase';
 import AsyncStorage from '@react-native-async-storage/async-storage';
 
 // Keys for storing auth data
-const USER_DATA_KEY = '@FoodGI:userData';
-const AUTH_TOKEN_KEY = '@FoodGI:authToken';
+const USER_DATA_KEY = '@GI Tracker:userData';
+const AUTH_TOKEN_KEY = '@GI Tracker:authToken';
 
 /**
- * Service for handling all authentication-related operations in the FoodGI app
+ * Service for handling all authentication-related operations in the GI Tracker app
  */
 class AuthService {
   /**

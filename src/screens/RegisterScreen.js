@@ -98,7 +98,7 @@ const RegisterScreen = ({ navigation }) => {
     >
       <ScrollView contentContainerStyle={styles.container}>
         <View style={styles.formContainer}>
-          <Text style={styles.title}>FoodGI</Text>
+          <Text style={styles.title}>GI Tracker</Text>
           <Text style={styles.subtitle}>Create your account</Text>
           
           <View style={styles.inputContainer}>
